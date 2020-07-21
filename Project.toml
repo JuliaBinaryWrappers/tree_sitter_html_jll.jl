@@ -1,0 +1,10 @@
+name = "tree_sitter_html_jll"
+uuid = "3890dd07-cc9a-5220-ba41-7d914d0b28d4"
+version = "0.16.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"
